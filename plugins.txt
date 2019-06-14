@@ -78,11 +78,11 @@ pipeline-stage-view:2.10
 plain-credentials:1.5
 pubsub-light:1.12
 resource-disposer:0.12
-scm-api:2.3.0
+scm-api:2.4.1
 script-security:1.50
 sse-gateway:1.17
 ssh-credentials:1.14
-structs:1.17
+structs:1.18
 support-core:2.54
 token-macro:2.5
 variant:1.1
@@ -95,7 +95,7 @@ workflow-durable-task-step:2.28
 workflow-job:2.31
 workflow-multibranch:2.20
 workflow-scm-step:2.7
-workflow-step-api:2.18
+workflow-step-api:2.20
 workflow-support:3.0
 ws-cleanup:0.37
 maven-plugin:3.2
@@ -106,3 +106,5 @@ metrics:4.0.2.2
 lockable-resources:2.3
 localization-zh-cn:0.0.11
 google-login:1.4
+timestamper:1.9
+ssh-agent:1.17
