@@ -108,3 +108,4 @@ localization-zh-cn:0.0.11
 google-login:1.4
 timestamper:1.9
 ssh-agent:1.17
+email-ext:2.66
