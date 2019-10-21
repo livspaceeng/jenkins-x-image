@@ -63,6 +63,7 @@ mailer:1.23
 matrix-project:1.13
 mercurial:2.4
 momentjs:1.1.1
+pipeline-aws-plugin:1.38
 pipeline-build-step:2.7
 pipeline-graph-analysis:1.9
 pipeline-input-step:2.9
